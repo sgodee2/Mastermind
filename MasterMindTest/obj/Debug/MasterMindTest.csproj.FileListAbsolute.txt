@@ -1,0 +1,17 @@
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\obj\Debug\MasterMindTest.csprojAssemblyReference.cache
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\obj\Debug\MasterMindTest.csproj.CoreCompileInputs.cache
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\MasterMindTest.dll
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\MasterMindTest.pdb
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\MasterMind.exe
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\MasterMind.pdb
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\MasterMind.exe.config
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\obj\Debug\MasterMindTest.csproj.CopyComplete
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\obj\Debug\MasterMindTest.dll
+C:\Users\sg\Documents\Visual Studio 2017\Projects\MasterMind\MasterMindTest\obj\Debug\MasterMindTest.pdb
